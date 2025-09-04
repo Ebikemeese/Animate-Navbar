@@ -30,4 +30,4 @@ A sleek, responsive, and animated navigation bar built using **HTML**, **CSS**, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/animated-navbar.git
+   https://github.com/Ebikemeese/Animate-Navbar.git
